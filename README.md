@@ -1,4 +1,4 @@
-Python Practice & AI Practicals
+# Python Practice & AI Practicals
 
 This repository contains my Python practice programs, problem-solving exercises, and AI practical implementations.
 
